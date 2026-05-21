@@ -127,18 +127,41 @@ Proyecto de análisis de texto y sentimientos aplicando técnicas de NLP sobre c
 🔗 [Ir al proyecto](https://github.com/elycarmonadev/proyecto-iagen-cocina)   
 Proyecto enfocado en IA Generativa aplicando modelos de lenguaje para la generación de recetas e interacción inteligente.
 
-## 📫 Contactame
+## 📫 Contáctame
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/elizabeth-carmona-salbado-71520b194/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bagde">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:elycarmona.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
+
+### ¡Conectemos! 🌟
+
+Siempre abierta a nuevos proyectos, colaboraciones en datos e IA, oportunidades laborales o simplemente charlar sobre tecnología.
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/elizabeth-carmona-salbado-71520b194/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"><br/>
+        <sub><b>Perfil profesional</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:elycarmona.dev@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"><br/>
+        <sub><b>Propuestas y oportunidades</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/elycarmonadev" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"><br/>
+        <sub><b>Mis proyectos</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub>📍 Basada en España &nbsp;·&nbsp; 🌐 Disponible para trabajo remoto &nbsp;·&nbsp; 💬 Español</sub>
+
 </div>
-
-- **LinkedIn:** [Elizabeth Carmona Salbado](https://www.linkedin.com/in/elizabeth-carmona-salbado-71520b194/)
-
-- **Email:** elycarmona.dev@gmail.com
