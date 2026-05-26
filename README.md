@@ -95,13 +95,15 @@ Actualmente, estoy enfocada en potenciar mis habilidades en **Data Analytics** y
 
 [<img src="assets/01_proyecto_eda.png" width="100%" alt="Python & EDA Banner">](https://github.com/elycarmonadev/Proyecto-EDA)  
 🔗 [Ir al proyecto](https://github.com/elycarmonadev/Proyecto-EDA)    
-Proyecto de análisis exploratorio de datos utilizando Python y librerías como Pandas, Matplotlib y Seaborn para la limpieza, análisis y visualización de datos.
+Proyecto de EDA basado en el dataset Student Performance Factors, que analiza cómo variables como horas de estudio, asistencia, sueño, apoyo familiar y actividades extracurriculares influyen en el rendimiento académico.  
+A partir de estos datos, desarrollé un análisis exploratorio completo utilizando Pandas, Matplotlib y Seaborn para limpiar, transformar y visualizar el comportamiento de cada variable.
+El objetivo fue identificar qué factores tienen mayor impacto en las calificaciones finales y cómo se relacionan entre sí.
 
 
 
 [<img src="assets/02_proyecto_sql.png" width="100%" alt="SQL Banner">](https://github.com/elycarmonadev/Proyecto-SQL)  
 🔗 [Ir al proyecto](https://github.com/elycarmonadev/Proyecto-SQL)   
-Consultas y análisis de bases de datos relacionales utilizando SQL, aplicando joins, subqueries, agregaciones y optimización de consultas.
+Proyecto SQL basado en el dataset Supermarket Sales, donde diseño un modelo relacional completo, creo el esquema desde cero y realizo un análisis exploratorio mediante consultas avanzadas. Incluye normalización, claves foráneas, funciones ventana, CTEs y KPIs de ventas.
 
 
 
