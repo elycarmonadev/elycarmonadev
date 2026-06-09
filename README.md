@@ -109,7 +109,7 @@ Proyecto SQL basado en el dataset Supermarket Sales, donde diseño un modelo rel
 
 [<img src="assets/03_proyecto_estadistica.png" width="100%" alt="Estadística Banner">](https://github.com/elycarmonadev/Proyecto-Estadistica)  
 🔗 [Ir al proyecto](https://github.com/elycarmonadev/Proyecto-Estadistica)    
-Aplicación de conceptos estadísticos para el análisis e interpretación de datos mediante Python.
+Proyecto de Estadística aplicada a Data Science donde realizo análisis exploratorio, inferencia estadística, modelado predictivo y análisis de series temporales. Incluye regresión lineal y logística, evaluación de modelos e implementación de una regresión lineal desde cero con NumPy.
 
 
 
