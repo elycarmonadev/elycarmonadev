@@ -91,7 +91,29 @@ Actualmente, estoy enfocada en potenciar mis habilidades en **Data Analytics** y
 </table>
 
 
-## 📂 Proyectos Destacados
+## 🍏 Proyecto Destacado: TFM - Reducción de Desperdicio Alimentario
+
+[<img src="assets/00_TFM.png" width="100%" alt="TFM Desperdicio Banner">](https://github.com/elycarmonadev/TFM-Desperdicio-Supermercados)
+
+<div align="center">
+  <!-- Tu Tech Stack REAL del proyecto en badges dinámicos -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Random Forest" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=flat-square&logo=google-gemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</div>
+
+<br/>
+
+🔗 [Ir al proyecto](https://github.com/elycarmonadev/TFM-Desperdicio-Supermercados) 
+
+**Sistema completo de Machine Learning e IA Generativa orientado al sector retail.**
+
+A partir de un dataset sintético con patrones realistas de supermercados, entrené un modelo **Random Forest** que predice el desperdicio diario por producto. Posteriormente, integré **Google Gemini** mediante *Prompt Engineering* avanzado (con reglas estrictas anti-alucinación) para traducir esas métricas en un resumen ejecutivo claro y directo para el gerente de la tienda. 
+
+Toda la herramienta es interactiva gracias a una interfaz desarrollada en **Streamlit**, diseñada específicamente para usuarios no técnicos, que incluye un selector de fecha para anticipar previsiones a días futuros y una comparativa de modelos.
+
+## 📂 Otros Proyectos Destacados
 
 [<img src="assets/01_proyecto_eda.png" width="100%" alt="Python & EDA Banner">](https://github.com/elycarmonadev/Proyecto-EDA)  
 🔗 [Ir al proyecto](https://github.com/elycarmonadev/Proyecto-EDA)    
